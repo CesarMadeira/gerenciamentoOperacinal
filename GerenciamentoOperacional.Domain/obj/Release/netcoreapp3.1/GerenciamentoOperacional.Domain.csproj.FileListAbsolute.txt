@@ -1,0 +1,10 @@
+C:\Users\CESAR\source\repos\GerenciamentoOperacional\GerenciamentoOperacional.Domain\bin\Release\netcoreapp3.1\GerenciamentoOperacional.Domain.deps.json
+C:\Users\CESAR\source\repos\GerenciamentoOperacional\GerenciamentoOperacional.Domain\bin\Release\netcoreapp3.1\GerenciamentoOperacional.Domain.dll
+C:\Users\CESAR\source\repos\GerenciamentoOperacional\GerenciamentoOperacional.Domain\bin\Release\netcoreapp3.1\GerenciamentoOperacional.Domain.pdb
+C:\Users\CESAR\source\repos\GerenciamentoOperacional\GerenciamentoOperacional.Domain\obj\Release\netcoreapp3.1\GerenciamentoOperacional.Domain.csprojAssemblyReference.cache
+C:\Users\CESAR\source\repos\GerenciamentoOperacional\GerenciamentoOperacional.Domain\obj\Release\netcoreapp3.1\GerenciamentoOperacional.Domain.AssemblyInfoInputs.cache
+C:\Users\CESAR\source\repos\GerenciamentoOperacional\GerenciamentoOperacional.Domain\obj\Release\netcoreapp3.1\GerenciamentoOperacional.Domain.AssemblyInfo.cs
+C:\Users\CESAR\source\repos\GerenciamentoOperacional\GerenciamentoOperacional.Domain\obj\Release\netcoreapp3.1\GerenciamentoOperacional.Domain.dll
+C:\Users\CESAR\source\repos\GerenciamentoOperacional\GerenciamentoOperacional.Domain\obj\Release\netcoreapp3.1\GerenciamentoOperacional.Domain.pdb
+C:\Users\CESAR\source\repos\GerenciamentoOperacional\GerenciamentoOperacional.Domain\bin\release\netcoreapp3.1\GerenciamentoOperacional.Domain.runtimeconfig.json
+C:\Users\CESAR\source\repos\GerenciamentoOperacional\GerenciamentoOperacional.Domain\bin\release\netcoreapp3.1\GerenciamentoOperacional.Domain.runtimeconfig.dev.json
